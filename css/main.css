@@ -12,6 +12,10 @@ body{
 }
 header{
     background-color: #EF5C8D;
+    padding-left: 2%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 90%;
 }
 .image{
     margin:auto;
@@ -24,6 +28,9 @@ img{
 }
 dl{
     background-color: #EF5C8D;
+    padding-left: 2%;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 dt{
     font-weight: bold;
