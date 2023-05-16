@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #FE90A9;
+    color: #FCEEE8;
+}
+.wrapper{
+    margin: auto;
+    width: 80%;
+}
+header{
+    background-color: #EF5C8D;
+}
+.image{
+    margin:auto;
+    font-size: 1.16rem;
+}
+img{
+    max-width: 150px;
+    max-height: 150px;
+    float: left;
+}
+dl{
+    background-color: #EF5C8D;
+}
+dt{
+    font-weight: bold;
+    font-size: 1.15rem; 
+}
+dd {
+    display: inline;
+    margin: 0;
+}
